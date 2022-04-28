@@ -1,6 +1,6 @@
 <?php
 
-namespace Library\Info;
+namespace DonMafiozy\rusdieinfo\Library;
 
 class Info
 {
