@@ -1,12 +1,12 @@
 <?php
 
-namespace DonMafiozy\rusdieinfo\Library;
+namespace DonMafiozy\RusDieInfo;
 
-class Info
+class Statistic
 {
     private function getData()
     {
-        $path  = __DIR__ . '/../data/info.json';
+        $path  = __DIR__ . '/data/info.json';
         return json_decode(file_get_contents($path), true);
     }
 
