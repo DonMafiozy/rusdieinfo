@@ -1,6 +1,6 @@
 <?php
 
-namespace DonMafiozy\RusDieInfo;
+namespace RusDieInfo;
 
 class Statistic
 {
