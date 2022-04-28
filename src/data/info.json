@@ -1,0 +1,28 @@
+{
+  "28.04.2022" : {
+    "tanks": 970,
+    "bbm": 2389,
+    "arteleria": 431,
+    "rszo": 151,
+    "pvo": 72,
+    "airplaines": 187,
+    "helicopters": 155,
+    "auto": 1688,
+    "ships": 8,
+    "bpla": 215,
+    "people" :22800
+  },
+  "27.04.2022" : {
+    "tanks": 939,
+    "bbm": 2342,
+    "arteleria": 431,
+    "rszo": 149,
+    "pvo": 71,
+    "airplaines": 185,
+    "helicopters": 155,
+    "auto": 1666,
+    "ships": 8,
+    "bpla": 207,
+    "people" :22400
+  }
+}

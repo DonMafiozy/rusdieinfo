@@ -1,0 +1,13 @@
+{
+    "name": "donmafiozy/rusdieinfo",
+    "description": "Losts Russians in war",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaroslav Chychkan",
+            "email": "ch.yaroslav@gmail.com"
+        }
+    ],
+    "require": {}
+}
